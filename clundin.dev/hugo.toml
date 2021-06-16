@@ -1,0 +1,4 @@
+baseURL = 'https://clundin.dev/'
+languageCode = 'en-us'
+title = "Carl Lundin's Blog"
+theme = 'ananke'

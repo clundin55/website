@@ -1,0 +1,3 @@
+[submodule "clundin.dev/themes/ananke"]
+	path = clundin.dev/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
