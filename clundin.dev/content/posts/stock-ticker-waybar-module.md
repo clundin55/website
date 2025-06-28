@@ -1,6 +1,6 @@
 +++
 date = '2025-06-28T12:14:55-07:00'
-draft = true
+draft = false
 title = 'Stock Ticker Waybar Module for NixOS'
 +++
 
