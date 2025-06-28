@@ -1,4 +1,6 @@
-baseURL = 'https://clundin.dev/'
+baseURL = 'https://clundin55.github.io/website/'
 languageCode = 'en-us'
 title = "Carl Lundin's Blog"
 theme = 'ananke'
+
+
