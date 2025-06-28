@@ -10,7 +10,7 @@ This post outlines a simple approach for adding a stock ticker to Waybar, specif
 
 Once completed, your final result will look like the following:
 
-![Picture](/stock-ticker-waybar/example.png)
+![Picture](/website/stock-ticker-waybar/example.png)
 
 # Pre-requisites
 
